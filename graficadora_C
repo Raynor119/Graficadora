@@ -1,0 +1,5 @@
+#!/bin/bash
+ghc -o main main.hs
+chmod +x main
+./main
+

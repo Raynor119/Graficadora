@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/raynor/Graficadora/
+python3 interfaz.py
